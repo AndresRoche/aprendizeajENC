@@ -1,0 +1,22 @@
+primero que nada nos descargamos su instalador en https://sourceforge.net/projects/mingw/files/
+
+luego hay tenemos el pdf para intalarlo
+
+
+despues de instalador con el pdf
+
+
+para empezar a ejecutar le programa usamos gcc
+
+
+= gcc uni.c -o hola.out
+
+esto crea un ejecutable
+
+el -o es para nombrar el archivo .out 
+
+
+luego para ejecutar el ejecutable es simplemente
+
+./hola.out
+

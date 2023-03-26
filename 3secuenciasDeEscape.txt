@@ -1,0 +1,9 @@
+\0  Nulo
+\b  Retroceso
+\t  Tabulador
+\n  Salto de Linea
+\f  Salto de Pagina
+\r  Retorno de carro
+\*  Comillas
+\?  Signo de Interrogacion
+\\  Barra Invertida
